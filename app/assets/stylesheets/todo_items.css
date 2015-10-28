@@ -2,3 +2,9 @@
   Place all the styles related to the matching controller here.
   They will automatically be included in application.css.
 */
+
+#wyncode {
+width: 40vw
+color: dimgray;
+text-shadow: 0 0 3px #FF0000;
+}
